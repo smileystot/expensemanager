@@ -1,0 +1,21 @@
+#inspire{
+    font-family: 'Comic Sans MS';
+}
+
+[v-cloak] > * { display:none; }
+
+.v-dialog .cols{
+    padding: 0 12px 0 40px !important;
+}
+
+.v-data-table thead th{
+    background-color:#fafafa !important;
+    font-weight: bold;
+}
+.v-data-table tbody tr:nth-child(even){
+    background-color:#fafafa !important;
+}
+
+.v-data-table{
+    border: 2px solid black
+}
